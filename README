@@ -1,0 +1,4 @@
+----------------------
+Browse the Below url for Jenkins
+http://localhost:8080
+password path : /var/lib/jenkins/secrets/initialAdminPassword
